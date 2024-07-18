@@ -1,2 +1,0 @@
-avalanche-lib
-avalanche-lib matplotlib torch torchvision
